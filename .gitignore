@@ -1,0 +1,36 @@
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Windows
+Thumbs.db
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# OS
+.Trash-*
+.fseventsd
